@@ -2,12 +2,12 @@
 
 Scribbler is a responsive HTML/CSS/Javascript template designed for developers who want to set up a small landing page and a documentation/usage page for their coding projects. It is developed with vanilla javascript and many great CSS3 features, such as CSS variables and CSS grid. With performance and simplicity in mind, the template is built without any extra overhead of libraries and is easy to customize.
 
-Read it on [Codrops](https://tympanus.net/codrops/2018/01/12/freebie-scribbler-website-template-html-sketch/)
+Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freebie-scribbler-website-template-html-sketch/)
 
 The template is made by [Amie Chen](https://www.amie-chen.com) exclusively for Codrops.
 
 ## Live Demo
-Check it out [here](https://tympanus.net/Freebies/scribbler/)
+👋 [Scribbler Live Demo](https://tympanus.net/Freebies/scribbler/)
 
 ## Credits
 *   [Highlight.js](https://highlightjs.org/)
