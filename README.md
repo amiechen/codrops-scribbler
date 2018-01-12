@@ -4,8 +4,6 @@ Scribbler is a responsive HTML/CSS/Javascript template designed for developers w
 
 Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freebie-scribbler-website-template-html-sketch/)
 
-The template is made by [Amie Chen](https://www.amie-chen.com) exclusively for Codrops.
-
 ## Live Demo
 👋 [Scribbler Live Demo](https://tympanus.net/Freebies/scribbler/)
 
