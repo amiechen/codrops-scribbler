@@ -41,12 +41,12 @@ window.addEventListener("load", function() {
 
   // bind click event to each tab container
   for (var i = 0; i < tabContainers.length; i++) {
-    tabContainers[i].addEventListener("click", tabClick);
+    get('.tab__menu', tabContainers[i]).addEventListener("click", tabClick);
   }
 
   // each click event is scoped to the tab_container
   function tabClick (event) {
-    var scope = event.currentTarget;
+    var scope = event.currentTarget.parentNode;
     var clickedTab = event.target;
     var tabs = getAll('.tab', scope);
     var panes = getAll('.tab__pane', scope);
@@ -128,8 +128,8 @@ window.addEventListener('scroll', function () {
 });
 
 // responsive navigation
-var topNav = document.querySelector('.menu');
-var icon = document.querySelector('.toggle');
+var topNav = get('.menu');
+var icon = get('.toggle');
 
 window.addEventListener('load', function(){
   function showNav() {

@@ -59,6 +59,7 @@ hr {
   margin: 0;
   right: 1rem;
   top: -2rem;
+  padding-left: 0;
 }
 
 .tab__container .code {
