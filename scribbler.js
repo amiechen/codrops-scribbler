@@ -81,7 +81,8 @@ function setActiveLink(event) {
   event.target.classList.add('selected');
 }
 
-function smoothScrollTo(element, event) {
+function smoothScrollTo(i, event) {
+  var element = sections[i];
   setActiveLink(event);
 
   window.scrollTo({
@@ -92,26 +93,9 @@ function smoothScrollTo(element, event) {
 }
 
 if (btns.length && sections.length > 0) {
-// for (var i = 0; i<btns.length; i++) {
-//   btns[i].addEventListener('click', function(event) {
-//     smoothScrollTo(sections[i], event);
-//   });
-// }
-  btns[0].addEventListener('click', function (event) {
-    smoothScrollTo(sections[0], event);
-  });
-
-  btns[1].addEventListener('click', function (event) {
-    smoothScrollTo(sections[1], event);
-  });
-
-  btns[2].addEventListener('click', function (event) {
-    smoothScrollTo(sections[2], event);
-  });
-
-  btns[3].addEventListener('click', function (event) {
-    smoothScrollTo(sections[3], event);
-  });
+  for (var i = 0; i<btns.length; i++) {
+    btns[i].addEventListener('click', smoothScrollTo.bind(this,i));
+  }
 }
 
 // fix menu to page-top once user starts scrolling
