@@ -12,6 +12,9 @@ Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freeb
 *   [Google Fonts - Nunito](https://fonts.google.com/specimen/Nunito+Sans)
 *   [Font Awesome v4](http://fontawesome.io/)
 
+## License
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
+
 ## Misc
 
 Follow Amie: [Website](https://www.amie-chen.com/), [Dribbble](http://www.dribbble.com/amiechen01), [Github](https://github.com/amiechen), [Twitter](https://twitter.com/hyper_yolo), [Medium](https://medium.com/@hyperyolo)
