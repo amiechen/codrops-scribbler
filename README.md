@@ -2,7 +2,7 @@
 
 ![Scribbler Screenshot](./screenshot.jpg)
 
-Scribbler is a responsive HTML/CSS/Javascript template designed for developers who want to set up a small landing page and a documentation/usage page for their coding projects. It is developed with vanilla javascript and many great CSS3 features, such as CSS variables and CSS grid. With performance and simplicity in mind, the template is built without any extra overhead of libraries and is easy to customize.
+Scribbler is a responsive HTML/CSS/Javascript template designed for developers who want to set up a small landing page and a documentation/usage page for their coding projects. It is developed with vanilla javascript and many great CSS3 features, such as CSS variables and responsive CSS grid. With performance and simplicity in mind, the template is built without any extra overhead libraries and is so easy to customize.
 
 Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freebie-scribbler-website-template-html-sketch/)
 
@@ -15,7 +15,7 @@ Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freeb
 *   [Font Awesome v4](http://fontawesome.io/)
 
 ## License
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
+Use it freely but, please! do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
 
 ## Misc
 
