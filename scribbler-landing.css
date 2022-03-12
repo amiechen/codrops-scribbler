@@ -87,6 +87,10 @@ nav {
   margin-left: -1px;
 }
 
+.keybinding__detail li {
+  color: var(--primary-color-light);
+}
+
 .keybinding__detail:first-child .keybinding__title {
   position: absolute;
   right: 0.5rem;
@@ -130,6 +134,7 @@ nav {
 .changelog {
   background-color: var(--bg-color);
   padding: 2rem 0;
+  color: var(--primary-color-light);
 }
 
 .changelog__item {
@@ -159,21 +164,28 @@ nav {
   .hero__terminal {
     width: 70%;
   }
-  .tab__container > ul {
+
+  .tab__container>ul {
     right: auto;
     left: 0;
     padding-left: 0;
   }
+
   .tab__container .code {
     margin-top: 2rem;
   }
-  .feature, .keybinding, .changelog__item {
+
+  .feature,
+  .keybinding,
+  .changelog__item {
     flex-direction: column;
   }
+
   .feature__item {
     max-width: 100%;
     margin: 0;
   }
+
   .keybinding {
     font-size: 0.8rem;
   }

@@ -6,7 +6,13 @@ Scribbler is a responsive HTML/CSS/Javascript template designed for developers w
 
 Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freebie-scribbler-website-template-html-sketch/)
 
-## Live Demo
+✅ And this template supports dark mode. (*based on `@media (prefers-color-scheme: dark)`*)
+
+## Live Demo (new)
+
+👋 [Scribbler Live Demo](https://egoistdeveloper.github.io/codrops-scribbler/)
+
+## Live Demo (original)
 👋 [Scribbler Live Demo](https://tympanus.net/Freebies/scribbler/)
 
 ## Credits
@@ -15,6 +21,7 @@ Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freeb
 *   [Font Awesome v4](http://fontawesome.io/)
 
 ## License
+
 Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
 
 ## Misc
